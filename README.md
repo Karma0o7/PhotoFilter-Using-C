@@ -8,9 +8,9 @@ This Photo filter is made in C langauage.
 3. run the Makefile
 4. ./filter -[filter that you want to use] INFILE.bmp OUTFILE.bmp
 
---> -g for gray-scale <br>
---> -r for mirror
---> -b for blur
---> -e for edges
+<b>--></b> -g for gray-scale <br>
+<b>--></b> -r for mirror <br>
+<b>--></b> -b for blur <br>
+<b>--></b> -e for edges <br>
 
 eg. ./filter -g images/yard.bmp out.bmp
