@@ -11,6 +11,6 @@ This Photo filter is made in C langauage.
 <b>--></b> -g for gray-scale <br>
 <b>--></b> -r for mirror <br>
 <b>--></b> -b for blur <br>
-<b>--></b> -e for edges <br>
+<b>--></b> -e for sepia <br>
 
 eg. ./filter -g images/yard.bmp out.bmp
